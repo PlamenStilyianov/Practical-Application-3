@@ -33,3 +33,5 @@ There are three types of models to compare their accuracy prediction scores betw
 * PCA Feature extraction
 * Hyper-parameter tuning
 * Further model improvements\implementations SMOTE (synthetic minority oversampling technique) is one of the most commonly used oversampling methods to solve the imbalance problem
+
+[Jupyter Notebook source](https://github.com/PlamenStilyianov/Practical-Application-3/blob/main/prompt_III.ipynb)
